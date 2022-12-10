@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Waybig Kernel by Aarav
+kernel.string=OMNITRIX Kernel by Aarav
 do.devicecheck=1
 do.modules=0
 do.systemless=1
