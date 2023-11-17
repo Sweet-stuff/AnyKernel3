@@ -499,6 +499,6 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print " " " " "Done!";
-ui_print " " " " "Enjoy the kernel! ";
-ui_print " " " " "By AARAV AND FAIZAAN :)";
+ui_print " " " " "It's Hero time!";
+ui_print " " " " "Flashing done! now reboot ";
+ui_print " " " " "By AARAV :)";

@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ElectroKernel by Aarav, Doctor Strange & KernelPanix
+kernel.string=OmnitrixKernel by Aarav
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=sweet
 device.name2=sweetin
-supported.versions=11 - 13
+supported.versions=11 - 14
 supported.patchlevels=
 '; } # end properties
 
